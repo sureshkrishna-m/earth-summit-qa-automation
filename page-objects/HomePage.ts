@@ -11,8 +11,8 @@ export class HomePage extends BasePage {
     constructor(page: Page) {
         super(page);
         this.hero = page.locator('header, [role="banner"], .hero').first();
-        this.navHyderabad = page.getByRole('link', { name: /hyderabad/i });
-        this.navGandhinagar = page.getByRole('link', { name: /gandhinagar/i });
+        this.navHyderabad = page.getByRole('link', { name: /Hyderabad/i });
+        this.navGandhinagar = page.getByRole('link', { name: /Gandhinagar/i });
         this.navNewDelhi = page.getByRole('link', { name: /(new\s*delhi|delhi)/i });
         this.logo = page.getByRole('link', { name: /earth summit|home/i }).first();
     }

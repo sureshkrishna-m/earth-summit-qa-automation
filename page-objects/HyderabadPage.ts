@@ -8,7 +8,7 @@ export class HyderabadPage extends BasePage {
     constructor(page: Page) {
         super(page);
         this.venueText = page.getByText(/hitex exhibition centre|hitex/i).first();
-        this.agendaLink = page.getByRole('link', { name: /agenda/i }).first();
+        this.agendaLink = page.getByRole('link', { name: /Agenda/i }).first();
     }
 
     async goto() {
