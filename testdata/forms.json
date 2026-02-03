@@ -1,0 +1,12 @@
+{
+    "partnerForm": {
+        "name": "Test Partner",
+        "company": "Acme Events",
+        "email": "partner+qa@example.com",
+        "phone": "9123456789",
+        "country": "India",
+        "agreeTerms": true
+    },
+    "invalidEmailExample": "test@com",
+    "invalidPhone": "abc123"
+}

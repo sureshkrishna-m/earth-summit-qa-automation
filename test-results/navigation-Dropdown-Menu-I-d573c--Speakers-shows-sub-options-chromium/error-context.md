@@ -1,0 +1,1047 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - list [ref=e5]:
+      - listitem [ref=e6]:
+        - link "Hyderabad" [ref=e7] [cursor=pointer]:
+          - /url: /hyderabad
+      - listitem [ref=e8]:
+        - link "Gandhinagar" [ref=e9] [cursor=pointer]:
+          - /url: /gandhinagar
+      - listitem [ref=e10]:
+        - link "New Delhi" [ref=e11] [cursor=pointer]:
+          - /url: /new-delhi
+    - generic [ref=e14]:
+      - link "Earth Summit" [ref=e16] [cursor=pointer]:
+        - /url: /
+        - img "Earth Summit" [ref=e17]
+      - generic [ref=e18]:
+        - navigation [ref=e19]:
+          - list [ref=e20]:
+            - listitem [ref=e21]:
+              - button "Agenda" [ref=e22] [cursor=pointer]: Agenda
+            - listitem [ref=e23]:
+              - button "Speakers" [ref=e24] [cursor=pointer]: Speakers
+            - listitem [ref=e25]:
+              - button "Partnership" [ref=e26] [cursor=pointer]: Partnership
+            - listitem [ref=e27]:
+              - button "Festivities" [ref=e28] [cursor=pointer]: Festivities
+        - generic [ref=e29]:
+          - link "Express your Interest" [ref=e30] [cursor=pointer]:
+            - /url: /express-interest
+          - link "Register Now" [ref=e31] [cursor=pointer]:
+            - /url: https://registration.earth-summit.com/
+  - main [ref=e32]:
+    - generic [ref=e33]:
+      - generic [ref=e35]:
+        - generic [ref=e36]:
+          - group "1 / 1" [ref=e38]:
+            - generic [ref=e45]:
+              - img "IAMAI Logo" [ref=e47]
+              - heading "Empowering Rural Innovation for Global Change" [level=1] [ref=e48]:
+                - text: Empowering
+                - text: Rural Innovation
+                - text: for Global Change
+              - generic [ref=e49]:
+                - link "Hyderabad" [ref=e50] [cursor=pointer]:
+                  - /url: /hyderabad
+                  - generic [ref=e51]: Hyderabad
+                - link "Gandhinagar" [ref=e52] [cursor=pointer]:
+                  - /url: /gandhinagar
+                  - generic [ref=e53]: Gandhinagar
+                - link "New Delhi" [ref=e54] [cursor=pointer]:
+                  - /url: /new-delhi
+                  - generic [ref=e55]: New Delhi
+              - paragraph [ref=e57]:
+                - img "new_logo.png" [ref=e58]
+          - text: prev next
+        - complementary [ref=e59]:
+          - link "Facebook" [ref=e60] [cursor=pointer]:
+            - /url: https://www.facebook.com/share/1FLSc2ES8w/
+            - img "Facebook" [ref=e61]
+          - link "LinkedIn" [ref=e62] [cursor=pointer]:
+            - /url: https://www.linkedin.com/showcase/earth-summit-25/?viewAsMember=true
+            - img "LinkedIn" [ref=e63]
+          - link "X (Twitter)" [ref=e64] [cursor=pointer]:
+            - /url: https://x.com/Earth_Summit_IN
+            - img "X (Twitter)" [ref=e65]
+          - link "Instagram" [ref=e66] [cursor=pointer]:
+            - /url: https://www.instagram.com/earthsummitindia
+            - img "Instagram" [ref=e67]
+      - region "Marquee Level1" [ref=e69]:
+        - list [ref=e71]:
+          - listitem [ref=e72]:
+            - img "Scroller logos ES (46).png" [ref=e73]
+          - listitem [ref=e74]:
+            - img "Scroller logos ES (3).png" [ref=e75]
+          - listitem [ref=e76]:
+            - img "Scroller logos ES (19).png" [ref=e77]
+          - listitem [ref=e78]:
+            - img "Scroller logos ES (12).png" [ref=e79]
+          - listitem [ref=e80]:
+            - img "Scroller logos ES (16).png" [ref=e81]
+          - listitem [ref=e82]:
+            - img "Scroller logos ES (4).png" [ref=e83]
+          - listitem [ref=e84]:
+            - img "Scroller logos ES (43).png" [ref=e85]
+          - listitem [ref=e86]:
+            - img "Scroller logos ES (25).png" [ref=e87]
+          - listitem [ref=e88]:
+            - img "Scroller logos ES (22).png" [ref=e89]
+          - listitem [ref=e90]:
+            - img "Scroller logos ES (8).png" [ref=e91]
+          - listitem [ref=e92]:
+            - img "Scroller logos ES (50).png" [ref=e93]
+          - listitem [ref=e94]:
+            - img "Scroller logos ES (41).png" [ref=e95]
+          - listitem [ref=e96]:
+            - img "Scroller logos ES (27).png" [ref=e97]
+          - listitem [ref=e98]:
+            - img "Scroller logos ES (26).png" [ref=e99]
+          - listitem [ref=e100]:
+            - img "Scroller logos ES (48).png" [ref=e101]
+          - listitem [ref=e102]:
+            - img "Scroller logos ES (49).png" [ref=e103]
+          - listitem [ref=e104]:
+            - img "Scroller logos ES (47).png" [ref=e105]
+          - listitem [ref=e106]:
+            - img "Scroller logos ES (5).png" [ref=e107]
+          - listitem [ref=e108]:
+            - img "Scroller logos ES (30).png" [ref=e109]
+          - listitem [ref=e110]:
+            - img "Scroller logos ES (7).png" [ref=e111]
+          - listitem [ref=e112]:
+            - img "Scroller logos ES (28).png" [ref=e113]
+          - listitem [ref=e114]:
+            - img "Scroller logos ES (17).png" [ref=e115]
+          - listitem [ref=e116]:
+            - img "Scroller logos ES (10).png" [ref=e117]
+          - listitem [ref=e118]:
+            - img "Scroller logos ES (32).png" [ref=e119]
+          - listitem [ref=e120]:
+            - img "Scroller logos ES (37).png" [ref=e121]
+          - listitem [ref=e122]:
+            - img "Scroller logos ES (51).png" [ref=e123]
+          - listitem [ref=e124]:
+            - img "Scroller logos ES (31).png" [ref=e125]
+          - listitem [ref=e126]:
+            - img "Scroller logos ES (44).png" [ref=e127]
+          - listitem [ref=e128]:
+            - img "Scroller logos ES (18).png" [ref=e129]
+          - listitem [ref=e130]:
+            - img "Scroller logos ES (45).png" [ref=e131]
+          - listitem [ref=e132]:
+            - img "Scroller logos ES (46).png" [ref=e133]
+          - listitem [ref=e134]:
+            - img "Scroller logos ES (3).png" [ref=e135]
+          - listitem [ref=e136]:
+            - img "Scroller logos ES (19).png" [ref=e137]
+          - listitem [ref=e138]:
+            - img "Scroller logos ES (12).png" [ref=e139]
+          - listitem [ref=e140]:
+            - img "Scroller logos ES (16).png" [ref=e141]
+          - listitem [ref=e142]:
+            - img "Scroller logos ES (4).png" [ref=e143]
+          - listitem [ref=e144]:
+            - img "Scroller logos ES (43).png" [ref=e145]
+          - listitem [ref=e146]:
+            - img "Scroller logos ES (25).png" [ref=e147]
+          - listitem [ref=e148]:
+            - img "Scroller logos ES (22).png" [ref=e149]
+          - listitem [ref=e150]:
+            - img "Scroller logos ES (8).png" [ref=e151]
+          - listitem [ref=e152]:
+            - img "Scroller logos ES (50).png" [ref=e153]
+          - listitem [ref=e154]:
+            - img "Scroller logos ES (41).png" [ref=e155]
+          - listitem [ref=e156]:
+            - img "Scroller logos ES (27).png" [ref=e157]
+          - listitem [ref=e158]:
+            - img "Scroller logos ES (26).png" [ref=e159]
+          - listitem [ref=e160]:
+            - img "Scroller logos ES (48).png" [ref=e161]
+          - listitem [ref=e162]:
+            - img "Scroller logos ES (49).png" [ref=e163]
+          - listitem [ref=e164]:
+            - img "Scroller logos ES (47).png" [ref=e165]
+          - listitem [ref=e166]:
+            - img "Scroller logos ES (5).png" [ref=e167]
+          - listitem [ref=e168]:
+            - img "Scroller logos ES (30).png" [ref=e169]
+          - listitem [ref=e170]:
+            - img "Scroller logos ES (7).png" [ref=e171]
+          - listitem [ref=e172]:
+            - img "Scroller logos ES (28).png" [ref=e173]
+          - listitem [ref=e174]:
+            - img "Scroller logos ES (17).png" [ref=e175]
+          - listitem [ref=e176]:
+            - img "Scroller logos ES (10).png" [ref=e177]
+          - listitem [ref=e178]:
+            - img "Scroller logos ES (32).png" [ref=e179]
+          - listitem [ref=e180]:
+            - img "Scroller logos ES (37).png" [ref=e181]
+          - listitem [ref=e182]:
+            - img "Scroller logos ES (51).png" [ref=e183]
+          - listitem [ref=e184]:
+            - img "Scroller logos ES (31).png" [ref=e185]
+          - listitem [ref=e186]:
+            - img "Scroller logos ES (44).png" [ref=e187]
+          - listitem [ref=e188]:
+            - img "Scroller logos ES (18).png" [ref=e189]
+          - listitem [ref=e190]:
+            - img "Scroller logos ES (45).png" [ref=e191]
+      - generic [ref=e195]:
+        - generic [ref=e196]:
+          - heading "The Future of Agri & Rural India" [level=2] [ref=e197]:
+            - text: The Future of
+            - text: Agri & Rural India
+          - paragraph [ref=e199]:
+            - generic [ref=e200]: The Earth Summit is the leading platform dedicated to empowering rural innovation and showcasing transformative solutions from farmer collectives, women entrepreneurs, and local communities. By bringing together policy, capital, technology, and culture, the Summit turns ideas into pilots, partnerships, and investments that seed real change. From clean energy clusters and digital kiosks to Agri-Tech breakthroughs and inclusive finance models, the earth summit is building the momentum for a sustainable rural future, where innovation and opportunity reach every community.
+        - generic [ref=e202]:
+          - link "Hyderabad 20–21 November 2025 > item.title" [ref=e203] [cursor=pointer]:
+            - /url: /hyderabad
+            - generic [ref=e204]:
+              - heading "Hyderabad" [level=3] [ref=e205]
+              - paragraph [ref=e207]:
+                - text: 20–21 November
+                - text: "2025"
+              - link ">" [ref=e208]:
+                - /url: /hyderabad
+              - img "item.title" [ref=e209]
+          - link "Gandhinagar 05–06 December 2025 > item.title" [ref=e210] [cursor=pointer]:
+            - /url: /gandhinagar
+            - generic [ref=e211]:
+              - heading "Gandhinagar" [level=3] [ref=e212]
+              - paragraph [ref=e214]:
+                - text: 05–06 December
+                - text: "2025"
+              - link ">" [ref=e215]:
+                - /url: /gandhinagar
+              - img "item.title" [ref=e216]
+          - link "New Delhi To be announced > item.title" [ref=e217] [cursor=pointer]:
+            - /url: /new-delhi
+            - generic [ref=e218]:
+              - heading "New Delhi" [level=3] [ref=e219]
+              - paragraph [ref=e221]: To be announced
+              - link ">" [ref=e222]:
+                - /url: /new-delhi
+              - img "item.title" [ref=e223]
+      - generic [ref=e229]:
+        - heading "About the Summit" [level=2] [ref=e232]:
+          - text: About the
+          - generic [ref=e233]: Summit
+        - generic [ref=e235]:
+          - generic [ref=e236]:
+            - group "1 / 6" [ref=e237]:
+              - generic [ref=e239]:
+                - heading "Rural Innovation" [level=3] [ref=e240]
+                - paragraph [ref=e241]:
+                  - paragraph [ref=e242]: The Summit showcases breakthrough ideas from farmers collectives, women entrepreneurs, and grassroots innovators. These local solutions are proof that rural communities can drive national growth when given the right platforms.
+            - group "2 / 6" [ref=e243]:
+              - generic [ref=e245]:
+                - heading "Cross-Sector Alignment" [level=3] [ref=e246]
+                - paragraph [ref=e247]:
+                  - paragraph [ref=e248]: Policy, finance, technology, and community leaders converge at the Summit to break silos. Together, they build coalitions that convert ideas into pilots, partnerships, and actionable reforms.
+            - group "3 / 6" [ref=e249]:
+              - generic [ref=e251]:
+                - heading "Sustainability & Energy" [level=3] [ref=e252]
+                - paragraph [ref=e253]:
+                  - paragraph [ref=e254]: From climate-smart agriculture to renewable energy clusters, the Summit highlights innovations that strengthen resilience. Each solution is designed to protect livelihoods while advancing green and, inclusive growth.
+            - group "4 / 6" [ref=e255]:
+              - generic [ref=e257]:
+                - heading "Culture & Community" [level=3] [ref=e258]
+                - paragraph [ref=e259]:
+                  - paragraph [ref=e260]: Rural transformation is not only about economics—it’s about people, community and culture. The Summit celebrates local heritage while empowering communities to shape their own future.
+            - group "5 / 6" [ref=e261]:
+              - generic [ref=e263]:
+                - heading "Finance & Markets" [level=3] [ref=e264]
+                - paragraph [ref=e265]:
+                  - paragraph [ref=e266]: The Summit unlocks access to credit, investment, and markets for rural enterprises. By connecting capital with grassroots innovation, it ensures rural prosperity is both inclusive and scalable.
+            - group "6 / 6" [ref=e267]:
+              - generic [ref=e269]:
+                - heading "Technology & Skills" [level=3] [ref=e270]
+                - paragraph [ref=e271]:
+                  - paragraph [ref=e272]: AgriTech, FinTech, and digital platforms are showcased alongside research and skilling initiatives. Together, they equip rural communities with the tools needed to thrive in a modern economy.
+          - generic [ref=e273]:
+            - button "Previous slide" [disabled]
+            - button "Next slide" [ref=e274] [cursor=pointer]
+      - generic [ref=e277]:
+        - heading "Summit Overview" [level=2] [ref=e278]
+        - generic [ref=e280]:
+          - generic [ref=e282]:
+            - generic [ref=e285] [cursor=pointer]:
+              - strong [ref=e286]: 2 Days | 20-21 November 2025 | HITEX Exhibition Centre
+              - heading "Hyderabad South & East Regional Summit" [level=3] [ref=e287]:
+                - text: Hyderabad
+                - generic [ref=e288]: South & East Regional Summit
+            - generic [ref=e290] [cursor=pointer]:
+              - strong [ref=e291]: 2 Days | 05-06 December 2025 | Mahatma Mandir Convention & Exhibition Centre
+              - heading "Gandhinagar North & West Regional Summit" [level=3] [ref=e292]:
+                - text: Gandhinagar
+                - generic [ref=e293]: North & West Regional Summit
+            - generic [ref=e295] [cursor=pointer]:
+              - strong [ref=e296]: To be Announced
+              - heading "New Delhi National Summit" [level=3] [ref=e297]:
+                - text: New Delhi
+                - generic [ref=e298]: National Summit
+          - article [ref=e301]:
+            - heading "Theme:“Empowering Rural Innovation for Global Change”" [level=4] [ref=e302]
+            - strong [ref=e303]: 2 Days | 20-21 November 2025 | HITEX Exhibition Centre
+            - list [ref=e304]:
+              - listitem [ref=e305]:
+                - generic [ref=e306]:
+                  - img "Technology" [ref=e308]
+                  - paragraph [ref=e310]: Technology
+              - listitem [ref=e311]:
+                - generic [ref=e312]:
+                  - img "AgriTech" [ref=e314]
+                  - paragraph [ref=e316]: AgriTech
+              - listitem [ref=e317]:
+                - generic [ref=e318]:
+                  - img "RuralTech" [ref=e320]
+                  - paragraph [ref=e322]: RuralTech
+            - paragraph [ref=e323]:
+              - generic [ref=e324]:
+                - text: "Invited States:"
+                - text: Andaman and Nicobar Islands | Andhra Pradesh | Arunachal Pradesh | Assam | Bihar | Jharkhand | Karnataka | Kerala | Lakshadweep | Manipur | Meghalaya | Mizoram | Nagaland | Odisha | Puducherry | Sikkim | Tamil Nadu | Tripura | West Bengal
+            - paragraph [ref=e325]:
+              - generic [ref=e326]: "Host State: Telangana"
+            - heading "Curated for Corporates, Fintechs, Technology Leaders, Startups, Policymakers, Academic Institutions, State Innovators, Financial Institutions, Multilateral Agencies, FPOs, SHGs, and Social Enterprises from Southern, Eastern, and North-Eastern India" [level=5] [ref=e327]
+      - generic [ref=e331]:
+        - heading "Summit Highlights" [level=2] [ref=e332]
+        - generic [ref=e334]:
+          - group "1 / 7" [ref=e335]:
+            - generic [ref=e337]:
+              - heading "0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 +" [level=2] [ref=e338]:
+                - generic [ref=e339]:
+                  - generic [ref=e341]:
+                    - generic [ref=e342]: "0"
+                    - generic [ref=e343]: "1"
+                    - generic [ref=e344]: "2"
+                    - generic [ref=e345]: "3"
+                    - generic [ref=e346]: "4"
+                    - generic [ref=e347]: "5"
+                    - generic [ref=e348]: "6"
+                    - generic [ref=e349]: "7"
+                    - generic [ref=e350]: "8"
+                    - generic [ref=e351]: "9"
+                    - generic [ref=e352]: "0"
+                    - generic [ref=e353]: "1"
+                    - generic [ref=e354]: "2"
+                    - generic [ref=e355]: "3"
+                    - generic [ref=e356]: "4"
+                  - generic [ref=e358]:
+                    - generic [ref=e359]: "0"
+                    - generic [ref=e360]: "1"
+                    - generic [ref=e361]: "2"
+                    - generic [ref=e362]: "3"
+                    - generic [ref=e363]: "4"
+                    - generic [ref=e364]: "5"
+                    - generic [ref=e365]: "6"
+                    - generic [ref=e366]: "7"
+                    - generic [ref=e367]: "8"
+                    - generic [ref=e368]: "9"
+                    - generic [ref=e369]: "0"
+                    - generic [ref=e370]: "1"
+                    - generic [ref=e371]: "2"
+                    - generic [ref=e372]: "3"
+                    - generic [ref=e373]: "4"
+                  - generic [ref=e375]:
+                    - generic [ref=e376]: "0"
+                    - generic [ref=e377]: "1"
+                    - generic [ref=e378]: "2"
+                    - generic [ref=e379]: "3"
+                    - generic [ref=e380]: "4"
+                    - generic [ref=e381]: "5"
+                    - generic [ref=e382]: "6"
+                    - generic [ref=e383]: "7"
+                    - generic [ref=e384]: "8"
+                    - generic [ref=e385]: "9"
+                    - generic [ref=e386]: "0"
+                    - generic [ref=e387]: "1"
+                    - generic [ref=e388]: "2"
+                    - generic [ref=e389]: "3"
+                    - generic [ref=e390]: "4"
+                  - generic [ref=e392]:
+                    - generic [ref=e393]: "0"
+                    - generic [ref=e394]: "1"
+                    - generic [ref=e395]: "2"
+                    - generic [ref=e396]: "3"
+                    - generic [ref=e397]: "4"
+                    - generic [ref=e398]: "5"
+                    - generic [ref=e399]: "6"
+                    - generic [ref=e400]: "7"
+                    - generic [ref=e401]: "8"
+                    - generic [ref=e402]: "9"
+                    - generic [ref=e403]: "0"
+                    - generic [ref=e404]: "1"
+                    - generic [ref=e405]: "2"
+                    - generic [ref=e406]: "3"
+                    - generic [ref=e407]: "4"
+                  - generic [ref=e409]:
+                    - generic [ref=e410]: "0"
+                    - generic [ref=e411]: "1"
+                    - generic [ref=e412]: "2"
+                    - generic [ref=e413]: "3"
+                    - generic [ref=e414]: "4"
+                    - generic [ref=e415]: "5"
+                    - generic [ref=e416]: "6"
+                    - generic [ref=e417]: "7"
+                    - generic [ref=e418]: "8"
+                    - generic [ref=e419]: "9"
+                    - generic [ref=e420]: "0"
+                    - generic [ref=e421]: "1"
+                    - generic [ref=e422]: "2"
+                    - generic [ref=e423]: "3"
+                    - generic [ref=e424]: "4"
+                - text: +
+              - heading "Delegates" [level=3] [ref=e425]:
+                - paragraph [ref=e426]: Delegates
+          - group "2 / 7" [ref=e427]:
+            - generic [ref=e429]:
+              - heading "0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 +" [level=2] [ref=e430]:
+                - generic [ref=e431]:
+                  - generic [ref=e433]:
+                    - generic [ref=e434]: "0"
+                    - generic [ref=e435]: "1"
+                    - generic [ref=e436]: "2"
+                    - generic [ref=e437]: "3"
+                    - generic [ref=e438]: "4"
+                    - generic [ref=e439]: "5"
+                    - generic [ref=e440]: "6"
+                    - generic [ref=e441]: "7"
+                    - generic [ref=e442]: "8"
+                    - generic [ref=e443]: "9"
+                    - generic [ref=e444]: "0"
+                    - generic [ref=e445]: "1"
+                    - generic [ref=e446]: "2"
+                    - generic [ref=e447]: "3"
+                    - generic [ref=e448]: "4"
+                  - generic [ref=e450]:
+                    - generic [ref=e451]: "0"
+                    - generic [ref=e452]: "1"
+                    - generic [ref=e453]: "2"
+                    - generic [ref=e454]: "3"
+                    - generic [ref=e455]: "4"
+                    - generic [ref=e456]: "5"
+                    - generic [ref=e457]: "6"
+                    - generic [ref=e458]: "7"
+                    - generic [ref=e459]: "8"
+                    - generic [ref=e460]: "9"
+                    - generic [ref=e461]: "0"
+                    - generic [ref=e462]: "1"
+                    - generic [ref=e463]: "2"
+                    - generic [ref=e464]: "3"
+                    - generic [ref=e465]: "4"
+                  - generic [ref=e467]:
+                    - generic [ref=e468]: "0"
+                    - generic [ref=e469]: "1"
+                    - generic [ref=e470]: "2"
+                    - generic [ref=e471]: "3"
+                    - generic [ref=e472]: "4"
+                    - generic [ref=e473]: "5"
+                    - generic [ref=e474]: "6"
+                    - generic [ref=e475]: "7"
+                    - generic [ref=e476]: "8"
+                    - generic [ref=e477]: "9"
+                    - generic [ref=e478]: "0"
+                    - generic [ref=e479]: "1"
+                    - generic [ref=e480]: "2"
+                    - generic [ref=e481]: "3"
+                    - generic [ref=e482]: "4"
+                  - generic [ref=e484]:
+                    - generic [ref=e485]: "0"
+                    - generic [ref=e486]: "1"
+                    - generic [ref=e487]: "2"
+                    - generic [ref=e488]: "3"
+                    - generic [ref=e489]: "4"
+                    - generic [ref=e490]: "5"
+                    - generic [ref=e491]: "6"
+                    - generic [ref=e492]: "7"
+                    - generic [ref=e493]: "8"
+                    - generic [ref=e494]: "9"
+                    - generic [ref=e495]: "0"
+                    - generic [ref=e496]: "1"
+                    - generic [ref=e497]: "2"
+                    - generic [ref=e498]: "3"
+                    - generic [ref=e499]: "4"
+                - text: +
+              - heading "Corporates" [level=3] [ref=e500]:
+                - paragraph [ref=e501]: Corporates
+          - group "3 / 7" [ref=e502]:
+            - generic [ref=e504]:
+              - heading "0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 +" [level=2] [ref=e505]:
+                - generic [ref=e506]:
+                  - generic [ref=e508]:
+                    - generic [ref=e509]: "0"
+                    - generic [ref=e510]: "1"
+                    - generic [ref=e511]: "2"
+                    - generic [ref=e512]: "3"
+                    - generic [ref=e513]: "4"
+                    - generic [ref=e514]: "5"
+                    - generic [ref=e515]: "6"
+                    - generic [ref=e516]: "7"
+                    - generic [ref=e517]: "8"
+                    - generic [ref=e518]: "9"
+                    - generic [ref=e519]: "0"
+                    - generic [ref=e520]: "1"
+                    - generic [ref=e521]: "2"
+                    - generic [ref=e522]: "3"
+                    - generic [ref=e523]: "4"
+                  - generic [ref=e525]:
+                    - generic [ref=e526]: "0"
+                    - generic [ref=e527]: "1"
+                    - generic [ref=e528]: "2"
+                    - generic [ref=e529]: "3"
+                    - generic [ref=e530]: "4"
+                    - generic [ref=e531]: "5"
+                    - generic [ref=e532]: "6"
+                    - generic [ref=e533]: "7"
+                    - generic [ref=e534]: "8"
+                    - generic [ref=e535]: "9"
+                    - generic [ref=e536]: "0"
+                    - generic [ref=e537]: "1"
+                    - generic [ref=e538]: "2"
+                    - generic [ref=e539]: "3"
+                    - generic [ref=e540]: "4"
+                  - generic [ref=e542]:
+                    - generic [ref=e543]: "0"
+                    - generic [ref=e544]: "1"
+                    - generic [ref=e545]: "2"
+                    - generic [ref=e546]: "3"
+                    - generic [ref=e547]: "4"
+                    - generic [ref=e548]: "5"
+                    - generic [ref=e549]: "6"
+                    - generic [ref=e550]: "7"
+                    - generic [ref=e551]: "8"
+                    - generic [ref=e552]: "9"
+                    - generic [ref=e553]: "0"
+                    - generic [ref=e554]: "1"
+                    - generic [ref=e555]: "2"
+                    - generic [ref=e556]: "3"
+                    - generic [ref=e557]: "4"
+                - text: +
+              - heading "Speakers" [level=3] [ref=e558]:
+                - paragraph [ref=e559]: Speakers
+          - group "4 / 7" [ref=e560]:
+            - generic [ref=e562]:
+              - heading "0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 +" [level=2] [ref=e563]:
+                - generic [ref=e564]:
+                  - generic [ref=e566]:
+                    - generic [ref=e567]: "0"
+                    - generic [ref=e568]: "1"
+                    - generic [ref=e569]: "2"
+                    - generic [ref=e570]: "3"
+                    - generic [ref=e571]: "4"
+                    - generic [ref=e572]: "5"
+                    - generic [ref=e573]: "6"
+                    - generic [ref=e574]: "7"
+                    - generic [ref=e575]: "8"
+                    - generic [ref=e576]: "9"
+                    - generic [ref=e577]: "0"
+                    - generic [ref=e578]: "1"
+                    - generic [ref=e579]: "2"
+                    - generic [ref=e580]: "3"
+                    - generic [ref=e581]: "4"
+                  - generic [ref=e583]:
+                    - generic [ref=e584]: "0"
+                    - generic [ref=e585]: "1"
+                    - generic [ref=e586]: "2"
+                    - generic [ref=e587]: "3"
+                    - generic [ref=e588]: "4"
+                    - generic [ref=e589]: "5"
+                    - generic [ref=e590]: "6"
+                    - generic [ref=e591]: "7"
+                    - generic [ref=e592]: "8"
+                    - generic [ref=e593]: "9"
+                    - generic [ref=e594]: "0"
+                    - generic [ref=e595]: "1"
+                    - generic [ref=e596]: "2"
+                    - generic [ref=e597]: "3"
+                    - generic [ref=e598]: "4"
+                  - generic [ref=e600]:
+                    - generic [ref=e601]: "0"
+                    - generic [ref=e602]: "1"
+                    - generic [ref=e603]: "2"
+                    - generic [ref=e604]: "3"
+                    - generic [ref=e605]: "4"
+                    - generic [ref=e606]: "5"
+                    - generic [ref=e607]: "6"
+                    - generic [ref=e608]: "7"
+                    - generic [ref=e609]: "8"
+                    - generic [ref=e610]: "9"
+                    - generic [ref=e611]: "0"
+                    - generic [ref=e612]: "1"
+                    - generic [ref=e613]: "2"
+                    - generic [ref=e614]: "3"
+                    - generic [ref=e615]: "4"
+                - text: +
+              - heading "Startups" [level=3] [ref=e616]:
+                - paragraph [ref=e617]: Startups
+          - group "5 / 7" [ref=e618]:
+            - generic [ref=e620]:
+              - heading "0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 +" [level=2] [ref=e621]:
+                - generic [ref=e622]:
+                  - generic [ref=e624]:
+                    - generic [ref=e625]: "0"
+                    - generic [ref=e626]: "1"
+                    - generic [ref=e627]: "2"
+                    - generic [ref=e628]: "3"
+                    - generic [ref=e629]: "4"
+                    - generic [ref=e630]: "5"
+                    - generic [ref=e631]: "6"
+                    - generic [ref=e632]: "7"
+                    - generic [ref=e633]: "8"
+                    - generic [ref=e634]: "9"
+                    - generic [ref=e635]: "0"
+                    - generic [ref=e636]: "1"
+                    - generic [ref=e637]: "2"
+                    - generic [ref=e638]: "3"
+                    - generic [ref=e639]: "4"
+                  - generic [ref=e641]:
+                    - generic [ref=e642]: "0"
+                    - generic [ref=e643]: "1"
+                    - generic [ref=e644]: "2"
+                    - generic [ref=e645]: "3"
+                    - generic [ref=e646]: "4"
+                    - generic [ref=e647]: "5"
+                    - generic [ref=e648]: "6"
+                    - generic [ref=e649]: "7"
+                    - generic [ref=e650]: "8"
+                    - generic [ref=e651]: "9"
+                    - generic [ref=e652]: "0"
+                    - generic [ref=e653]: "1"
+                    - generic [ref=e654]: "2"
+                    - generic [ref=e655]: "3"
+                    - generic [ref=e656]: "4"
+                  - generic [ref=e658]:
+                    - generic [ref=e659]: "0"
+                    - generic [ref=e660]: "1"
+                    - generic [ref=e661]: "2"
+                    - generic [ref=e662]: "3"
+                    - generic [ref=e663]: "4"
+                    - generic [ref=e664]: "5"
+                    - generic [ref=e665]: "6"
+                    - generic [ref=e666]: "7"
+                    - generic [ref=e667]: "8"
+                    - generic [ref=e668]: "9"
+                    - generic [ref=e669]: "0"
+                    - generic [ref=e670]: "1"
+                    - generic [ref=e671]: "2"
+                    - generic [ref=e672]: "3"
+                    - generic [ref=e673]: "4"
+                - text: +
+              - heading "Exhibitors" [level=3] [ref=e674]:
+                - paragraph [ref=e675]: Exhibitors
+          - group "6 / 7" [ref=e676]:
+            - generic [ref=e678]:
+              - heading "0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 +" [level=2] [ref=e679]:
+                - generic [ref=e680]:
+                  - generic [ref=e682]:
+                    - generic [ref=e683]: "0"
+                    - generic [ref=e684]: "1"
+                    - generic [ref=e685]: "2"
+                    - generic [ref=e686]: "3"
+                    - generic [ref=e687]: "4"
+                    - generic [ref=e688]: "5"
+                    - generic [ref=e689]: "6"
+                    - generic [ref=e690]: "7"
+                    - generic [ref=e691]: "8"
+                    - generic [ref=e692]: "9"
+                    - generic [ref=e693]: "0"
+                    - generic [ref=e694]: "1"
+                    - generic [ref=e695]: "2"
+                    - generic [ref=e696]: "3"
+                    - generic [ref=e697]: "4"
+                  - generic [ref=e699]:
+                    - generic [ref=e700]: "0"
+                    - generic [ref=e701]: "1"
+                    - generic [ref=e702]: "2"
+                    - generic [ref=e703]: "3"
+                    - generic [ref=e704]: "4"
+                    - generic [ref=e705]: "5"
+                    - generic [ref=e706]: "6"
+                    - generic [ref=e707]: "7"
+                    - generic [ref=e708]: "8"
+                    - generic [ref=e709]: "9"
+                    - generic [ref=e710]: "0"
+                    - generic [ref=e711]: "1"
+                    - generic [ref=e712]: "2"
+                    - generic [ref=e713]: "3"
+                    - generic [ref=e714]: "4"
+                - text: +
+              - heading "Investors" [level=3] [ref=e715]:
+                - paragraph [ref=e716]: Investors
+          - group "7 / 7" [ref=e717]:
+            - generic [ref=e719]:
+              - heading "0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 +" [level=2] [ref=e720]:
+                - generic [ref=e721]:
+                  - generic [ref=e723]:
+                    - generic [ref=e724]: "0"
+                    - generic [ref=e725]: "1"
+                    - generic [ref=e726]: "2"
+                    - generic [ref=e727]: "3"
+                    - generic [ref=e728]: "4"
+                    - generic [ref=e729]: "5"
+                    - generic [ref=e730]: "6"
+                    - generic [ref=e731]: "7"
+                    - generic [ref=e732]: "8"
+                    - generic [ref=e733]: "9"
+                    - generic [ref=e734]: "0"
+                    - generic [ref=e735]: "1"
+                    - generic [ref=e736]: "2"
+                    - generic [ref=e737]: "3"
+                    - generic [ref=e738]: "4"
+                  - generic [ref=e740]:
+                    - generic [ref=e741]: "0"
+                    - generic [ref=e742]: "1"
+                    - generic [ref=e743]: "2"
+                    - generic [ref=e744]: "3"
+                    - generic [ref=e745]: "4"
+                    - generic [ref=e746]: "5"
+                    - generic [ref=e747]: "6"
+                    - generic [ref=e748]: "7"
+                    - generic [ref=e749]: "8"
+                    - generic [ref=e750]: "9"
+                    - generic [ref=e751]: "0"
+                    - generic [ref=e752]: "1"
+                    - generic [ref=e753]: "2"
+                    - generic [ref=e754]: "3"
+                    - generic [ref=e755]: "4"
+                - text: +
+              - heading "Workshops, Masterclass & Showcases" [level=3] [ref=e756]:
+                - paragraph [ref=e757]: Workshops, Masterclass & Showcases
+        - generic [ref=e758]:
+          - button "Previous slide" [disabled]
+          - button "Next slide" [ref=e759] [cursor=pointer]
+      - generic [ref=e762]:
+        - heading "Agenda Tracks" [level=2] [ref=e763]
+        - generic [ref=e765]:
+          - generic:
+            - generic:
+              - figure
+          - generic [ref=e768]:
+            - list [ref=e769]:
+              - listitem [ref=e770]:
+                - button "accordion image Financial Inclusion & Rural Credit" [ref=e771] [cursor=pointer]:
+                  - generic [ref=e772]:
+                    - img "accordion image" [ref=e774]
+                    - generic [ref=e775]: Financial Inclusion & Rural Credit
+                - paragraph [ref=e778]: Unlocking affordable credit and financial tools to bridge rural gaps, empower smallholders, and fuel inclusive, scalable economic growth.
+              - listitem [ref=e779]:
+                - button "accordion image Women-led Rural Innovation" [ref=e780] [cursor=pointer]:
+                  - generic [ref=e781]:
+                    - img "accordion image" [ref=e783]
+                    - generic [ref=e784]: Women-led Rural Innovation
+                - paragraph [ref=e787]: Championing women entrepreneurs as catalysts of rural transformation, driving social equity, innovation, and sustainable prosperity in local communities.
+              - listitem [ref=e788]:
+                - button "accordion image Entrepreneurship & Skilling" [ref=e789] [cursor=pointer]:
+                  - generic [ref=e790]:
+                    - img "accordion image" [ref=e792]
+                    - generic [ref=e793]: Entrepreneurship & Skilling
+                - paragraph [ref=e796]: Equipping rural youth and entrepreneurs with skills, markets, and mentorship to build enterprises that sustain livelihoods and foster resilience.
+              - listitem [ref=e797]:
+                - button "accordion image Climate-Smart Agriculture" [ref=e798] [cursor=pointer]:
+                  - generic [ref=e799]:
+                    - img "accordion image" [ref=e801]
+                    - generic [ref=e802]: Climate-Smart Agriculture
+                - paragraph [ref=e805]: Promoting resilient farming practices that enhance productivity, protect natural resources, and prepare rural communities for a changing climate.
+              - listitem [ref=e806]:
+                - button "accordion image Circular Economy" [ref=e807] [cursor=pointer]:
+                  - generic [ref=e808]:
+                    - img "accordion image" [ref=e810]
+                    - generic [ref=e811]: Circular Economy
+                - paragraph [ref=e814]: Turning rural waste into opportunity through recycling, reuse, and innovation that generates jobs and supports environmental sustainability.
+            - list [ref=e815]:
+              - listitem [ref=e816]:
+                - button "accordion image Resource Management" [ref=e817] [cursor=pointer]:
+                  - generic [ref=e818]:
+                    - img "accordion image" [ref=e820]
+                    - generic [ref=e821]: Resource Management
+                - paragraph [ref=e824]: Optimizing water, soil, and biodiversity management to ensure sustainable use of natural capital and long-term rural resilience.
+              - listitem [ref=e825]:
+                - button "accordion image Rural Infrastructure & Connectivity" [ref=e826] [cursor=pointer]:
+                  - generic [ref=e827]:
+                    - img "accordion image" [ref=e829]
+                    - generic [ref=e830]: Rural Infrastructure & Connectivity
+                - paragraph [ref=e833]: Strengthening roads, logistics, and digital access to connect rural communities with markets, services, and opportunities for growth.
+              - listitem [ref=e834]:
+                - button "accordion image Green Finance & Climate Innovation" [ref=e835] [cursor=pointer]:
+                  - generic [ref=e836]:
+                    - img "accordion image" [ref=e838]
+                    - generic [ref=e839]: Green Finance & Climate Innovation
+                - paragraph [ref=e842]: Mobilizing capital and technology for climate-friendly rural projects, ensuring sustainable growth and resilience against environmental challenges.
+              - listitem [ref=e843]:
+                - button "accordion image Access to Renewable Energy" [ref=e844] [cursor=pointer]:
+                  - generic [ref=e845]:
+                    - img "accordion image" [ref=e847]
+                    - generic [ref=e848]: Access to Renewable Energy
+                - paragraph [ref=e851]: Scaling decentralized and sustainable energy solutions to power rural homes, enterprises, and industries, driving inclusive prosperity.
+      - generic [ref=e854]:
+        - heading "OUR PARTNERS" [level=2] [ref=e855]
+        - generic [ref=e856]:
+          - list [ref=e857]:
+            - listitem
+          - generic [ref=e859]:
+            - generic [ref=e860]:
+              - paragraph [ref=e861]: Title Partner
+              - img "NABARD - P" [ref=e862]
+              - link "NABARD - P" [ref=e863] [cursor=pointer]:
+                - /url: https://www.nabard.org/EngDefault.aspx
+            - generic [ref=e864]:
+              - paragraph [ref=e865]: Diamond Partner
+              - img "Infibeam" [ref=e866]
+              - link "Infibeam" [ref=e867] [cursor=pointer]:
+                - /url: https://www.ia.ooo/
+            - generic [ref=e868]:
+              - paragraph [ref=e869]: Credit Insights Partner
+              - img "Transunion CIBIL - P" [ref=e870]
+              - link "Transunion CIBIL - P" [ref=e871] [cursor=pointer]:
+                - /url: https://www.cibil.com/
+            - generic [ref=e872]:
+              - paragraph [ref=e873]: Lanyard Partner
+              - img "Getrightdata-P" [ref=e874]
+            - generic [ref=e875]:
+              - paragraph [ref=e876]: Gold Partner
+              - img "RUGR" [ref=e877]
+              - link "RUGR" [ref=e878] [cursor=pointer]:
+                - /url: https://rugr.com/
+            - generic [ref=e879]:
+              - paragraph [ref=e880]: Silver Partner
+              - img "RNFI" [ref=e881]
+              - link "RNFI" [ref=e882] [cursor=pointer]:
+                - /url: https://www.rnfiservices.com/
+            - generic [ref=e883]:
+              - paragraph [ref=e884]: Silver Partner
+              - img "vivifi- P" [ref=e885]
+              - link "vivifi- P" [ref=e886] [cursor=pointer]:
+                - /url: https://www.vivifin.com/
+            - generic [ref=e887]:
+              - paragraph [ref=e888]: Digital Transaction Partner
+              - img "In-solutions global" [ref=e889]
+              - link "In-solutions global" [ref=e890] [cursor=pointer]:
+                - /url: https://insolutionsglobal.com/
+            - generic [ref=e891]:
+              - paragraph [ref=e892]: Bronze Partner
+              - img "Wadhwani Foundation - P" [ref=e893]
+              - link "Wadhwani Foundation - P" [ref=e894] [cursor=pointer]:
+                - /url: https://wadhwanifoundation.org/
+            - generic [ref=e895]:
+              - paragraph [ref=e896]: Bronze Partner
+              - img "Recordent - P" [ref=e897]
+              - link "Recordent - P" [ref=e898] [cursor=pointer]:
+                - /url: https://www.recordent.com/home
+        - generic [ref=e899]:
+          - link "View all Partners" [ref=e900] [cursor=pointer]:
+            - /url: /partners
+          - link "Become a Partner" [ref=e901] [cursor=pointer]:
+            - /url: /express-interest?act=partner
+      - generic [ref=e904]:
+        - heading "OUR EXHIBITORS" [level=2] [ref=e905]
+        - generic [ref=e906]:
+          - list [ref=e907]:
+            - listitem
+          - generic [ref=e909]:
+            - generic [ref=e910]:
+              - img "Airtel Payments" [ref=e911]
+              - link "Airtel Payments" [ref=e912] [cursor=pointer]:
+                - /url: https://www.airtelpayments.bank.in/
+            - generic [ref=e913]:
+              - img "Agriculture Insurance Company of India" [ref=e914]
+              - link "Agriculture Insurance Company of India" [ref=e915] [cursor=pointer]:
+                - /url: https://www.aicofindia.com/
+            - generic [ref=e916]:
+              - img "Aedaa Equipments" [ref=e917]
+              - link "Aedaa Equipments" [ref=e918] [cursor=pointer]:
+                - /url: https://www.aedaa.in/?srsltid=AfmBOorqL9CV7K9wmI7rM1ZtddTE0VO33fOp_VImAKa_LoRmfXNY7zR7
+            - generic [ref=e919]:
+              - img "Credresolve" [ref=e920]
+              - link "Credresolve" [ref=e921] [cursor=pointer]:
+                - /url: https://credresolve.com/
+            - generic [ref=e922]:
+              - img "Better Nutrition" [ref=e923]
+              - link "Better Nutrition" [ref=e924] [cursor=pointer]:
+                - /url: https://betternutrition.in/
+            - img "CRIF" [ref=e926]
+            - generic [ref=e927]:
+              - img "Dvara E-Dairy" [ref=e928]
+              - link "Dvara E-Dairy" [ref=e929] [cursor=pointer]:
+                - /url: https://dvaraedairy.com/
+            - generic [ref=e930]:
+              - img "integra" [ref=e931]
+              - link "integra" [ref=e932] [cursor=pointer]:
+                - /url: https://integramicro.com/en/
+            - generic [ref=e933]:
+              - img "NABARD" [ref=e934]
+              - link "NABARD" [ref=e935] [cursor=pointer]:
+                - /url: https://www.nabard.org/EngDefault.aspx
+            - img "Online PSB Loans" [ref=e937]
+            - generic [ref=e938]:
+              - img "Pay Nearby" [ref=e939]
+              - link "Pay Nearby" [ref=e940] [cursor=pointer]:
+                - /url: https://paynearby.in/
+            - generic [ref=e941]:
+              - img "Platforms commons" [ref=e942]
+              - link "Platforms commons" [ref=e943] [cursor=pointer]:
+                - /url: https://platformcommons.org/
+            - generic [ref=e944]:
+              - img "Pro B Product" [ref=e945]
+              - link "Pro B Product" [ref=e946] [cursor=pointer]:
+                - /url: http://www.probproducts.com
+            - generic [ref=e947]:
+              - img "Recordent" [ref=e948]
+              - link "Recordent" [ref=e949] [cursor=pointer]:
+                - /url: https://www.recordent.com/home
+            - generic [ref=e950]:
+              - img "Shoolini Saffron" [ref=e951]
+              - link "Shoolini Saffron" [ref=e952] [cursor=pointer]:
+                - /url: http://www.indoorsaffronfarming.com
+            - generic [ref=e953]:
+              - img "TraceX" [ref=e954]
+              - link "TraceX" [ref=e955] [cursor=pointer]:
+                - /url: https://tracextech.com/
+            - generic [ref=e956]:
+              - img "Transunion CIBIL" [ref=e957]
+              - link "Transunion CIBIL" [ref=e958] [cursor=pointer]:
+                - /url: https://www.cibil.com/
+        - link "Become an Exhibitor" [ref=e960] [cursor=pointer]:
+          - /url: /express-interest?act=exhibitor
+      - generic [ref=e964]:
+        - generic [ref=e965]:
+          - heading "Earth Summit Expo 2025-26" [level=2] [ref=e966]:
+            - text: Earth Summit
+            - text: Expo 2025-26
+          - generic [ref=e967]:
+            - paragraph [ref=e968]: The Earth Summit Expo is where groundbreaking ideas meet real-world impact. From disruptive startups to state-led rural missions, the expo is a vibrant space to discover technologies, models, and partnerships that are transforming India’s rural landscape.
+            - paragraph [ref=e969]: Integral to all the three chapters— Hyderabad, Gandhinagar and the National Summit in New Delhi—the expo serves as the premier marketplace for rural innovation and scalable solutions.
+        - generic [ref=e970]:
+          - generic [ref=e971]:
+            - img "Showcasing Innovation" [ref=e973]
+            - paragraph [ref=e974]:
+              - paragraph [ref=e975]:
+                - strong [ref=e977]: Showcasing Innovation
+          - generic [ref=e978]:
+            - img "Powering Rural Transformation" [ref=e980]
+            - paragraph [ref=e981]:
+              - paragraph [ref=e982]:
+                - strong [ref=e984]: Powering Rural Transformation
+      - generic [ref=e987]:
+        - heading "Engagement Formats" [level=2] [ref=e988]
+        - generic [ref=e990]:
+          - generic [ref=e991]:
+            - img "Keynotes & Fireside Chats" [ref=e993]
+            - generic [ref=e994]:
+              - heading "Keynotes & Fireside Chats" [level=4] [ref=e995]:
+                - link "Keynotes & Fireside Chats" [ref=e996] [cursor=pointer]:
+                  - /url: "#"
+              - paragraph [ref=e997]:
+                - paragraph [ref=e998]: Government leaders, global experts, & grassroots voices
+          - generic [ref=e999]:
+            - img "Policy & Regulatory Closed Rooms" [ref=e1001]
+            - generic [ref=e1002]:
+              - heading "Policy & Regulatory Closed Rooms" [level=4] [ref=e1003]:
+                - link "Policy & Regulatory Closed Rooms" [ref=e1004] [cursor=pointer]:
+                  - /url: "#"
+              - paragraph [ref=e1005]:
+                - paragraph [ref=e1006]: Invite-only strategic sessions with ministries, regulators, DFIs
+          - generic [ref=e1007]:
+            - img "Innovation Showcase" [ref=e1009]
+            - generic [ref=e1010]:
+              - heading "Innovation Showcase" [level=4] [ref=e1011]:
+                - link "Innovation Showcase" [ref=e1012] [cursor=pointer]:
+                  - /url: "#"
+              - paragraph [ref=e1013]:
+                - paragraph [ref=e1014]: Product & Tech Demos from Startups and Innovators
+          - generic [ref=e1015]:
+            - img "Hackathons" [ref=e1017]
+            - generic [ref=e1018]:
+              - heading "Hackathons" [level=4] [ref=e1019]:
+                - link "Hackathons" [ref=e1020] [cursor=pointer]:
+                  - /url: "#"
+              - paragraph [ref=e1021]:
+                - paragraph [ref=e1022]: Regional → National Finale
+          - generic [ref=e1023]:
+            - img "Investment Pitches" [ref=e1025]
+            - generic [ref=e1026]:
+              - heading "Investment Pitches" [level=4] [ref=e1027]:
+                - link "Investment Pitches" [ref=e1028] [cursor=pointer]:
+                  - /url: "#"
+              - paragraph [ref=e1029]:
+                - paragraph [ref=e1030]: Platform for Startups Driving Rural Innovation
+          - generic [ref=e1031]:
+            - img "State Innovation Alliances" [ref=e1033]
+            - generic [ref=e1034]:
+              - heading "State Innovation Alliances" [level=4] [ref=e1035]:
+                - link "State Innovation Alliances" [ref=e1036] [cursor=pointer]:
+                  - /url: "#"
+              - paragraph [ref=e1037]:
+                - paragraph [ref=e1038]: Dialogue between States and Ecosystem
+      - generic [ref=e1043]:
+        - heading "Who Should Attend" [level=2] [ref=e1045]:
+          - text: Who
+          - generic [ref=e1046]:
+            - text: Should
+            - text: Attend
+        - generic [ref=e1047]:
+          - generic [ref=e1048]:
+            - img "Government Ministries & State Officials" [ref=e1049]
+            - paragraph [ref=e1050]: Government Ministries & State Officials
+          - generic [ref=e1051]:
+            - img "Global Development Agencies" [ref=e1052]
+            - paragraph [ref=e1053]: Global Development Agencies
+          - generic [ref=e1054]:
+            - img "Investors and DFIs" [ref=e1055]
+            - paragraph [ref=e1056]: Investors and DFIs
+          - generic [ref=e1057]:
+            - img "RuralTech, AgriTech, ClimateTech, HealthTech Startups" [ref=e1058]
+            - paragraph [ref=e1059]: RuralTech, AgriTech, ClimateTech, HealthTech Startups
+          - generic [ref=e1060]:
+            - img "SHGs, Cooperatives, Rural Entrepreneurs" [ref=e1061]
+            - paragraph [ref=e1062]: SHGs, Cooperatives, Rural Entrepreneurs
+          - generic [ref=e1063]:
+            - img "Academic Institutions and Think Tanks" [ref=e1064]
+            - paragraph [ref=e1065]: Academic Institutions and Think Tanks
+  - contentinfo [ref=e1066]:
+    - generic [ref=e1067]:
+      - generic [ref=e1068]:
+        - link "Earth Summit" [ref=e1070] [cursor=pointer]:
+          - /url: /
+          - img "Earth Summit" [ref=e1071]
+        - generic [ref=e1073]:
+          - paragraph [ref=e1074]: "Conference Venue Information:"
+          - generic [ref=e1075]:
+            - generic [ref=e1076]:
+              - heading "Hyderabad" [level=3] [ref=e1077]
+              - paragraph [ref=e1078]: HITEX Exhibition Centre
+            - generic [ref=e1079]:
+              - heading "Gandhinagar" [level=3] [ref=e1080]
+              - paragraph [ref=e1081]: Mahatma Mandir Convention & Exhibition Centre
+            - generic [ref=e1082]:
+              - heading "New Delhi" [level=3] [ref=e1083]
+              - paragraph [ref=e1084]: (To Be Announced)
+      - separator [ref=e1085]
+      - generic [ref=e1086]:
+        - list [ref=e1088]:
+          - listitem [ref=e1089]:
+            - link "Advisory Council" [ref=e1090] [cursor=pointer]:
+              - /url: /advisory-council
+          - listitem [ref=e1091]:
+            - link "News and Updates" [ref=e1092] [cursor=pointer]:
+              - /url: /news
+          - listitem [ref=e1093]:
+            - link "Privacy Policy" [ref=e1094] [cursor=pointer]:
+              - /url: /privacy-policy
+          - listitem [ref=e1095]:
+            - link "Terms & Conditions" [ref=e1096] [cursor=pointer]:
+              - /url: /terms-and-conditions
+          - listitem [ref=e1097]:
+            - link "Terms of Use" [ref=e1098] [cursor=pointer]:
+              - /url: /terms
+        - 'link "Contact us : info@earth-summit.com" [ref=e1100] [cursor=pointer]':
+          - /url: mailto:info@earth-summit.com
+      - separator [ref=e1101]
+      - generic [ref=e1103]: Copyright 2025 © Earth Summit
+  - alert [ref=e1104]
+```

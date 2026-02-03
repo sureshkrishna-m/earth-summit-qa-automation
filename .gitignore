@@ -1,0 +1,7 @@
+node_modules/
+.playwright/
+playwright-report/
+dist/
+.vscode/
+.DS_Store
+.env
